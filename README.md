@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @philippevelha
 - 👀 I’m interested in DIY electronics
 - 🌱 I’m currently learning PCB design
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Electronics both Anlog and Digital, OptoElectronics, Photonics, Electromagnetism
 - 📫 How to reach me philippe.velha@gmail.com
 
 <!---
